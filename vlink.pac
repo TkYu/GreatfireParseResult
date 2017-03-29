@@ -1,7 +1,7 @@
 // https://gist.github.com/ayanamist/1390732
 var PROXY = {
     "direct":"DIRECT",
-    "gfw":"PROXY 127.0.0.1:___________PORT___________;",
+    "gfw":"PROXY 127.0.0.1:1080;",
     "vlink":"PROXY ppc.vnet.link:8800;"
 };
 
